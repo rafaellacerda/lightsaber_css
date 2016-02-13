@@ -1,2 +1,2 @@
-# lightsaber_css
+# Example lightsaber
  Lightsaber only with CSS
